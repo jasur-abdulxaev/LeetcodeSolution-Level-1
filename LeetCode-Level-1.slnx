@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Folder Name="/EasyTasks/">
+    <Project Path="976. Largest Perimeter Triangle/976. Largest Perimeter Triangle.csproj" />
+  </Folder>
+  <Folder Name="/HardTasks/" />
+  <Folder Name="/MediumTasks/" />
 </Solution>

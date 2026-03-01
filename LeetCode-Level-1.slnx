@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/EasyTasks/">
+    <Project Path="1154. Day of the Year/1154. Day of the Year.csproj" />
     <Project Path="976. Largest Perimeter Triangle/976. Largest Perimeter Triangle.csproj" />
   </Folder>
   <Folder Name="/HardTasks/" />

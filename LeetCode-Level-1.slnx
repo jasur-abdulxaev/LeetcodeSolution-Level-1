@@ -6,6 +6,7 @@
   <Folder Name="/Math/" />
   <Folder Name="/Math/Easy/">
     <Project Path="1154. Day of the Year/1154. Day of the Year.csproj" />
+    <Project Path="507. Perfect Number/507. Perfect Number.csproj" Id="8a102778-d8d2-406b-a43b-b145e5fe46ae" />
     <Project Path="976. Largest Perimeter Triangle/976. Largest Perimeter Triangle.csproj" />
   </Folder>
   <Folder Name="/Math/Hard/" />

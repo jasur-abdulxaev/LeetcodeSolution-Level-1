@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/Arrays/" />
-  <Folder Name="/Arrays/Easy/" />
+  <Folder Name="/Arrays/Easy/">
+    <Project Path="268. Missing Number/268. Missing Number.csproj" Id="0da3b8e5-8dc1-48cb-a92a-cf2fe89208e4" />
+  </Folder>
   <Folder Name="/Arrays/Hard/" />
   <Folder Name="/Arrays/Medium/" />
   <Folder Name="/Math/" />

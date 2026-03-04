@@ -1,7 +1,9 @@
 <Solution>
   <Folder Name="/Arrays/" />
   <Folder Name="/Arrays/Easy/">
+    <Project Path="1748. Sum of Unique Elements/1748. Sum of Unique Elements.csproj" Id="cffe262d-a3f6-4fb2-a9d4-7b5ef735be5e" />
     <Project Path="268. Missing Number/268. Missing Number.csproj" Id="0da3b8e5-8dc1-48cb-a92a-cf2fe89208e4" />
+    <Project Path="819. Most Common Word/819. Most Common Word.csproj" Id="c62da4e3-29bb-4e4a-b98b-b812755104d6" />
   </Folder>
   <Folder Name="/Arrays/Hard/" />
   <Folder Name="/Arrays/Medium/" />

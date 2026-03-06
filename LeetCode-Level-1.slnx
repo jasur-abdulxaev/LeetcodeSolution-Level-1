@@ -16,4 +16,9 @@
   </Folder>
   <Folder Name="/Math/Hard/" />
   <Folder Name="/Math/Medium/" />
+  <Folder Name="/String/" />
+  <Folder Name="/String/Easy/">
+    <Project Path="1784. Check if Binary String Has at Most One Segment of Ones/1784. Check if Binary String Has at Most One Segment of Ones.csproj" Id="e9920a3d-2d20-4784-a735-a48d313db3f8" />
+    <Project Path="415. Add Strings/415. Add Strings.csproj" Id="a883cab9-b853-458a-8637-c13771a2dd30" />
+  </Folder>
 </Solution>

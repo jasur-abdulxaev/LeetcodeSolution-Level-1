@@ -3,7 +3,6 @@ var misol1 = new Solution();
 Console.WriteLine(misol1.CheckPerfectNumber(num));
 
 
-
 public class Solution
 {
     public bool CheckPerfectNumber(int num)
